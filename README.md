@@ -5,8 +5,7 @@ me alegro que estés leyendo esto <3
 
 Otros roles: Mafuyu, Empty miku, kagmine rin, Hatsune miku, Puro, squidDog, emu otori(El más reciente), Monika, A Bread, Flandere, Sakuya, Reimu, girlfriend, Yoisaki kanade, cirno, CV01
 
-Me retiro de discord x un rato~
-♡Un selfbot estará activo en mi cuenta♡
+
 
 ## Estado
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/891490390794964992?theme=%?bg=ff66bC&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20playing%20project%20sekai)](https://discord.com/users/891490390794964992)
