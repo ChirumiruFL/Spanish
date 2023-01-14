@@ -1,4 +1,7 @@
-## emu
+<h2 align="center">Hola, ¡Soy emu! </h2>
+<p align="center" alt="" width="">
+    <img alt="" src="assets/standard.gif">
+
 ![abnormality-dancing-girl-vocaloid](https://user-images.githubusercontent.com/117464679/211882563-592c52be-b82a-4ee5-9640-df673d150d4d.gif)
 ¡Hola!,soy una jugadora de PROJECT SEKAI y entre otros juegos de ritmo, no soy muy buena... Pero ¡almenos me divierto! 
 me alegro que estés leyendo esto <3
