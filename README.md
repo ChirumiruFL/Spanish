@@ -8,7 +8,7 @@ Otros roles: Mafuyu, Empty miku, kagmine rin, Hatsune miku, Puro, squidDog, emu 
 
 
 ## Estado
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/891490390794964992?theme=%?bg=ff66bC&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20playing%20project%20sekai)](https://discord.com/users/891490390794964992)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/891490390794964992?theme=%?bg=ff66bC&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Probablemente%20jugando%20project%20sekai)](https://discord.com/users/891490390794964992)
 - [x] project sekai | Japonés
 - [x] project sekai | Global(inglés) 
 - [x] project sekai | Chino tradicional
