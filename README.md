@@ -6,7 +6,7 @@
 ¡Hola!,soy una jugadora de PROJECT SEKAI y entre otros juegos de ritmo, no soy muy buena... Pero ¡almenos me divierto! 
 me alegro que estés leyendo esto <3
 
-Otros roles: Mafuyu, Empty miku, kagmine rin, Hatsune miku, Puro, squidDog, emu otori, Monika, A Bread, Flandere, Sakuya, Reimu, girlfriend, Yoisaki kanade(ocupadando), cirno, CV01
+Otros roles: Mafuyu, Empty miku, kagmine rin, Hatsune miku, Puro, squidDog, emu otori, Monika, A Bread, Flandere, Sakuya, Reimu, girlfriend, Yoisaki kanade(ocupadando), cirno,
 
 
 
